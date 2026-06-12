@@ -2,7 +2,7 @@
 
 ## 各ファイルについて
 - 推論コード
-  - BirdCLEF-2026-Inference
+  - birdclef-2026-inference.ipynb
 - SED学習コード
   - training_sed2_003_004_009_fold01234_epoch25.ipynb
 - Pseudo Label（疑似ラベリング）csvファイル生成コード
