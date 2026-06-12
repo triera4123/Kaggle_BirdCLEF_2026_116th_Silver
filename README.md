@@ -7,5 +7,4 @@
   - training_sed2_003_004_009_fold01234_epoch25.ipynb
 - Pseudo Label（疑似ラベリング）csvファイル生成コード
   - create_pseudo_label.ipynb
-- Pseudo Label（疑似ラベリング）csvファイル
-  - submission_sed_full_filtered.csv
+  - ※作成したcsvファイルは容量が大きいためリポジトリでは管理しない。
