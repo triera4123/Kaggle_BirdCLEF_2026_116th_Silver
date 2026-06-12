@@ -7,5 +7,5 @@
   - training_sed2_003_004_009_fold01234_epoch25.ipynb
 - Pseudo Label（疑似ラベリング）csvファイル生成コード
   - create_pseudo_label.ipynb
-- 疑似ラベリングcsvファイル
+- Pseudo Label（疑似ラベリング）csvファイル
   - submission_sed_full_filtered.csv
